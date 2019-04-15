@@ -31,6 +31,7 @@ dimensions used within an image should be limited to the dimensions within the d
 
 
 ## Data Visualizations and their Evaluation using Framework
+
 ### Visualization 1
 
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
@@ -70,15 +71,74 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
+**Evaluation Summary**:
+
+
+### Visualization 3
 
 <img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
 
+**Source**:
 
+**Evaluation Score**:  My assessment score for Visualization #3 is given below.
+
+**Criterion**| **Score**
+---------- | :---: 
+Usefulness | 5
+Completeness| 5 
+Perceptibility| 4
+Truthfulness|5 
+Intuitiveness|3
+Aesthetics|5
+Engagement|5
+
+**Evaluation Summary**:
+
+
+
+### Visualization 4
 
 <img src="/images/Viz4_Perception.png" alt="Perception" width="600">
 
+**Source**:
+
+**Evaluation Score**:  My assessment score for Visualization #4 is given below.
+
+**Criterion**| **Score**
+---------- | :---: 
+Usefulness | 5
+Completeness| 5 
+Perceptibility| 4
+Truthfulness|5 
+Intuitiveness|3
+Aesthetics|5
+Engagement|5
+
+**Evaluation Summary**:
+
+### Visualization 5
 
 <img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
+
+**Source**:
+
+**Evaluation Score**:  My assessment score for Visualization #5 is given below.
+
+**Criterion**| **Score**
+---------- | :---: 
+Usefulness | 5
+Completeness| 5 
+Perceptibility| 4
+Truthfulness|5 
+Intuitiveness|3
+Aesthetics|5
+Engagement|5
+
+**Evaluation Summary**:
+
+
+### Conclusion
+
 
 
 
@@ -87,6 +147,8 @@ Engagement|5
 * Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
 * Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
 * Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
+* 
+
 
 ---
 
