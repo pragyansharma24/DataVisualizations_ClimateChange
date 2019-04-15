@@ -77,7 +77,7 @@ Engagement|5
 
 <img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
 
-**Source**:
+**Source**:This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. https://www.flickr.com/photos/150411108@N06/
 
 **Evaluation Score**:  My assessment score for Visualization #3 is given below.
 
@@ -91,8 +91,11 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:
+**Evaluation Summary**:Antti Lipponen has put together an incredibly powerful data visualization showing climate change in each country over time starting from 1880. Date used for this animation were taken from surface temperature analysis performed by NASA. There is no doubt regarding how important and useful information this visualization provides with regards to climate change, so a score of 5 out of 5 on “Usefulness” criterion. Visualization also shows completeness as it provides just enough information, not more or less, to deliver what it intends to. It also includes a color ramp on top with varying size of circles for aid to comprehension and for accuracy. Choice of colors is also reasonable as the red and blue circles show temperature rise and drop, respectively relative to 1880. 
 
+This temperature anomaly animation visual is optimal in most respects except for a lower score in intuitiveness, because it does take some time, when first encountered, to figure out how to read it. It is not a common type of visual which makes it little harder to interpret at first so a score of 4 out of 5 for Intuitiveness. Also, in regards with Perceptibility. It made my brain and eyes to do some work before I can make sense of everything that this animation has to deliver. However, I also believe there is no significantly better way to incorporate this amount of information in a visualization, so I haven’t lowered the perceptibility score below 4.
+
+Aesthetically, it is relatively less pleasing to the eye, in part because the names of the countries at some places (e.g. Ukraine, United Arab Amirates, etc. in the bottom row) create a cluttered appearance. And finally, there is a lot about this animation that invites the viewer to examine the data. There is something for every viewer in this animation to explore. 
 
 
 ### Visualization 4
