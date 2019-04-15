@@ -33,4 +33,3 @@ dimensions used within an image should be limited to the dimensions within the d
 
 
 
-
