@@ -76,9 +76,7 @@ Intuitiveness|4
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**: This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in the coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. 
-
-Despite being a useful visualization, it lacks completeness in a sense that it could have provided more information in terms of actual SLR numbers. Also, the data-ink ratio for this visual is very low. 
+**Evaluation Summary**: This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in the coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. Despite being a useful visualization, it lacks completeness in a sense that it could have provided more information in terms of actual SLR numbers. Also, the data-ink ratio for this visual is very low. 
 
 The visualization gets a score of 5 out of 5 for Perceptibility because it hardly requires any effort for perceiving the powerful message behind it. Choice of colors is reasonable as it presents increasing sea level, which has negative impacts, in red and decreasing sea levels, which are not as alarming, in blue. This visualization also gets a slightly low score (4 out of 5) for Intuitiveness because it is not a familiar form of plot for most people. Without enough information provided by the author in the form of labels and numbers on SLR, it is difficult to judge the accuracy and validity (Truthfulness) of this visual, hence a score of 4 out of 5. There is no visual evidence of lack of visual integrity. 
 
