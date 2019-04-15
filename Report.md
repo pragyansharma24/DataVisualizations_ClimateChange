@@ -7,9 +7,9 @@ visualization (Few, 2017).
 
 Few (2017) also provided guidelines to graphically represent how well a visualization is designed. Although the graphical representation in Few (2017) omitted a quantitative scale for data visualization effectiveness profile, other works from literature related to evaluation frameworks (e.g. Atwood and Reznik-Zellen, 2018) have included a quantitative scale for scoring within each criterion (e.g. 0 to 5-point scale). I believe that for the type of visualizations selected here, it is more meaningful to evaluate them using a quantitative scale within each criterion. Therefore, for the current project, I have used the effectiveness profile suggested by Few (2017) together with a quantitative 0 to 5-point scale for each criterion. For example, for “Usefulness” criterion a score of zero (0) would imply “Useless visualization” and a score of five (5) would suggest a “very useful visualization”.
 
-
-<img src="/images/Evaluation Criteria.png" alt="alt text" width="600">
-
+<p align="center">
+<img src="/images/Evaluation Criteria.png" alt="alt text" width="500">
+</p>
 
 A summary of guidelines for these seven criteria is provided below. More details can be found in Few (2017) and other sources (Vidya, 2016; Interactive Design Foundation, 2019; Tufte, 20XX).
 
@@ -36,7 +36,7 @@ integrity” term used by Tufte (xxxx) can also be correlated to “Truthfulness
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
 </p>
 
-**Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
+**Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”. [link](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf)
 
 **Evaluation Score**: My assessment score for Visualization #1 is given below. 
 
@@ -60,7 +60,7 @@ This visualization gets a score of 3 out of 5 for Perceptibility because it requ
 <img src="/images/Viz2_SeaLevel.gif" alt="Sea Level" width="600">
 </p>
 
-**Source**: This visualization animation is taken from articleClimate Viz (http://www.pierdr.com/filter/Data-visualization/climate-viz).
+**Source**: This visualization animation is taken from article Climate Viz. [link](http://www.pierdr.com/filter/Data-visualization/climate-viz).
 
 **Evaluation Score**: My assessment score for Visualization #2 is given below. 
 
@@ -90,7 +90,7 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Ani
 <img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
 </p>
 
-**Source**:This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. https://www.flickr.com/photos/150411108@N06/
+**Source**:This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. [link](https://www.flickr.com/photos/150411108@N06/)
 
 **Evaluation Score**:  My assessment score for Visualization #3 is given below.
 
@@ -117,7 +117,7 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 <img src="/images/Viz4_Perception.png" alt="Perception" width="600">
 </p>
 
-**Source**: This visualization is taken from a technical report (Connie et al., 2014) http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf
+**Source**: This visualization is taken from a technical report (Connie et al., 2014). [link](http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf)
 
 **Evaluation Score**:  My assessment score for Visualization #4 is given below.
 
@@ -125,8 +125,8 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 ---------- | :---: 
 Usefulness | 5
 Completeness| 5 
-Perceptibility| 4
-Truthfulness|5 
+Perceptibility| 3
+Truthfulness|2 
 Intuitiveness|3
 Aesthetics|5
 Engagement|5
@@ -141,7 +141,7 @@ This graph gets a very low score (2 out of 5) for Truthfulness because 42% of �
 <img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
 </p>
 
-**Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist.   http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/
+**Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist. [link](http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/)
 
 **Evaluation Score**: My assessment score for Visualization #5 is given below.
 
@@ -164,17 +164,19 @@ This visualization hardy requires any effort for perceiving the powerful message
 In terms of Aesthetics and Engagement, this visualization gets a full score. Due to its ability to evoke the complexity of the data clearly with a simple design, it is rated aesthetically elegant.  It also has a reasonable appeal that draws users into it, rather than distracting them. 
 
 
-### Conclusion
+## Conclusion
 
 
 
 
-### References
+## References
+
 * Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
 * Connie R, Maibach E, Leiserowitz A, Feinberg G, Rosenthal S, and Kreslake, J (2014). Perceptions of the Health Consequences of Global Warming and Update on Key Beliefs, Global Warming’s Six Americas, October 2014
 * Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 * Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
 * Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
+
 ---
 
 
