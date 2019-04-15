@@ -157,5 +157,5 @@ Engagement|5
 
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 
-This image has been replicated using python code. The code and the python files can be found ![here](/GlobalWarmingStripes).
+This image has been replicated using python code. The code and the python files can be found [here](/GlobalWarmingStripes).
 
