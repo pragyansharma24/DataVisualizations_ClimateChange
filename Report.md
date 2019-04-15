@@ -110,7 +110,7 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 
 <img src="/images/Viz4_Perception.png" alt="Perception" width="600">
 
-**Source**:
+**Source**: This visualization is taken from a technical report (Connie et al., 2014) http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf
 
 **Evaluation Score**:  My assessment score for Visualization #4 is given below.
 
@@ -124,7 +124,9 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:
+**Evaluation Summary**: This visualization is useful and important because it displays the public's understanding of the causes of global warming and how much they are concerned about climate change. This visualization is a stacked percentage chart and is complete in all aspects as it is able to produce the intended level of understanding with proper use of figure elements. However, as far as Perceptibility is concerned, it gets a low score of 3 out of 5. It is not clear whether the numbers on the bars (in white) are the number of people who took the survey or some sort of percentages. Moreover, because of the 0-100% scaling used on Y-axis, it is difficult to visually compare two categories (e.g. Alarmed vs Disengaged). Also, probably due to the rounding off errors, the percentages are not adding to 100% (e.g. the numbers in category “Doubtful” are adding to 101%). Stacked Bar Charts are simple and intuitive in general, and therefore this stack chart gets a score of 5 for intuitiveness.
+
+This graph gets a very low score (2 out of 5) for Truthfulness because 42% of “Cautious” is not equivalent to 43% of “Dismissive” as it is perceived from the visualization, and hence it gives an incorrect impression.  I consider it as a visual distortion of data. As for aesthetics, it is evoking the complexity of the data with simple design, so it is aesthetically elegant. It is also engaging views to investigate information provided in terms of data and does not distract them. 
 
 ### Visualization 5
 
