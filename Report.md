@@ -9,6 +9,10 @@ Few (2017) also provided guidelines to graphically represent how well a visualiz
 <img src="/images/Evaluation Criteria.png" alt="alt text" width="500">
 </p>
 
+<p align="center">
+  <b>Figure 1: Evaluation Framework per Few (2017)</b>
+<p>
+
 A summary of guidelines for these seven criteria is provided below. More details can be found in Few (2017) and other sources (Vidya, 2016 and Interactive Design Foundation, 2019).
 
 1. **Usefulness**: Visualizations must be designed to have useful end goals and insights. According to Few (2017), this criterion can only be determined considering the audiences' needs. A data visualization should provide information that is useful. If it isn’t useful, it isn’t important. 
