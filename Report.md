@@ -32,8 +32,9 @@ integrity” term used by Tufte (xxxx) can also be correlated to “Truthfulness
 ## Data Visualizations and their Evaluation using Framework
 
 ### Visualization 1
-
+<p align="center">
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
+</p>
 
 **Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
 
@@ -55,7 +56,9 @@ This visualization gets a score of 3 out of 5 for Perceptibility because it requ
 
 ### Visualization 2
 
+<p align="center">
 <img src="/images/Viz2_SeaLevel.gif" alt="Sea Level" width="600">
+</p>
 
 **Source**: This visualization animation is taken from articleClimate Viz (http://www.pierdr.com/filter/Data-visualization/climate-viz).
 
@@ -83,7 +86,9 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Ani
 
 ### Visualization 3
 
+<p align="center">
 <img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
+</p>
 
 **Source**:This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. https://www.flickr.com/photos/150411108@N06/
 
@@ -107,9 +112,11 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 
 
 ### Visualization 4
+
 <p align="center">
 <img src="/images/Viz4_Perception.png" alt="Perception" width="600">
 </p>
+
 **Source**: This visualization is taken from a technical report (Connie et al., 2014) http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf
 
 **Evaluation Score**:  My assessment score for Visualization #4 is given below.
@@ -130,7 +137,9 @@ This graph gets a very low score (2 out of 5) for Truthfulness because 42% of �
 
 ### Visualization 5
 
+<p align="center">
 <img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
+</p>
 
 **Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist.   http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/
 
@@ -161,17 +170,18 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Due
 
 
 ### References
-* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 * Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
-* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
+* Connie R, Maibach E, Leiserowitz A, Feinberg G, Rosenthal S, and Kreslake, J (2014). Perceptions of the Health Consequences of Global Warming and Update on Key Beliefs, Global Warming’s Six Americas, October 2014
+* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 * Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
-
+* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
 ---
 
 
 # PART 2: Replicating Global Warming Stripes 
 
+<p align="center">
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
-
+<p>
 This image has been replicated using python code. The code and the python files can be found [here](/GlobalWarmingStripes).
 
