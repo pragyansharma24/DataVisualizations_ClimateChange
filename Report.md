@@ -7,6 +7,10 @@ visualization (Few, 2017).
 
 Few (2017) also provided guidelines to graphically represent how well a visualization is designed. Although the graphical representation in Few (2017) omitted a quantitative scale for data visualization effectiveness profile, other works from literature related to evaluation frameworks (e.g. Atwood and Reznik-Zellen, 2018) have included a quantitative scale for scoring within each criterion (e.g. 0 to 5-point scale). I believe that for the type of visualizations selected here, it is more meaningful to evaluate them using a quantitate scale within each criterion. Therefore, for the current project, I have used the effectiveness profile suggested by Few (2017) together with a quantitative 0 to 5-point scale for each criterion. For example, for “Usefulness” criterion a score of zero (0) would imply “Useless visualization” and a score of five (5) would suggest a “very useful visualization”.
 
+
+<img src="/images/Evaluation Criteria.png" alt="alt text" width="200">
+
+
 A summary of guidelines for these seven criteria is provided below. More details can be found in Few (2017) and other sources (Vidya, 2016; Interactive Design Foundation, 2019; Tufte, 20XX).
 
 1. **Usefulness**: Visualizations must be designed to have useful end goals and insights. According to Few (2017), this criterion can only be determined considering the audience’s needs. A data visualization should provide information that is useful. If it isn’t useful, it isn’t important. 
