@@ -38,21 +38,21 @@ integrity” term used by Tufte's design principles can also be correlated with 
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
 </p>
 
-**Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”. [link](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf)
+**Source**: This visualization is taken from a research article (Forster et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”. [link](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf)
 
 **Evaluation Score**: My assessment score for Visualization #1 is given below. 
 
 **Criterion**| **Score**
 ---------- | :---: 
-Usefulness | 5
-Completeness| 5 
-Perceptibility| 4
+Usefulness |5
+Completeness|5 
+Perceptibility|3
 Truthfulness|5 
-Intuitiveness|3
+Intuitiveness|4
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**: With regards to the impact of human activities and natural factors on climate change, this visualization provides plenty of useful information and insights to the readers. This visualization is important and useful for the authors to clearly describe their hypothesis in the research article. The visualization shows completeness in the sense that it provides just enough information, not more or less (data-ink ratio of 1). It uses axes labels, tick marks, and text in the figure properly. Choice of colors is also acceptable as it depicts the factors negatively affecting the climate in red and factors positively affecting the climate in blue. 
+**Evaluation Summary**: With regards to the impact of human activities and natural factors on climate change, this visualization provides plenty of useful information and insights to the readers. This visualization is important and useful for the authors to clearly describe their hypothesis in the research article. The visualization shows completeness in the sense that it provides just enough information, not more or less (data-ink ratio of 1). It uses axes labels, tick marks, and text in the figure properly. Choice of colors is also reasonable as it depicts the factors negatively affecting the climate in red and factors positively affecting the climate in blue. 
 
 This visualization gets a score of 3 out of 5 for Perceptibility because it requires some effort to interpret, especially the last row in the plot that shows the sum of all human activities. Authors could have provided more clarity in illustrating that the last two rows are there to be compared and provide a summary of their results. Moreover, Bar Plots, in general, are intuitive and easily understood, however, this visualization earns a slightly low score (4 out of 5) for Intuitiveness because it does take some time, when first encountered, to figure out how to read it. There is no doubt that this scientific visualization scores highly in Truthfulness as it reflects both accuracy and validity in the presentation of data. There is no visual evidence of lack of visual integrity. Its simplicity of design makes it easy to interpret and aesthetically elegant. It draws my attention and engages me into it to investigate the information provided.
 
