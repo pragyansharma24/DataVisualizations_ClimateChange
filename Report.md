@@ -158,7 +158,7 @@ Engagement|5
 
 Apart from being a useful visualization, it also shows “Completeness” in a sense that it tends to produce an intended level of understanding, I believe the data-ink ratio is close to 1, and all figure elements are appropriately placed. 
 
-This visualization hardy requires any effort for perceiving the powerful message behind it. Use of labels for indicating different periods (Medieval, Roman, etc.) makes it even more easily perceivable. The colors of the labels for warmer and cooler periods are shown in red and blue, respectively which is also reasonable.  However, the “Satelite” label in blue color does not relate to temperature data so a score of 4 out of 5 for Perceptibility. This visualization gets a score of 5 out of 5 for Intuitiveness because line chart is a very familiar form of a chart for most viewers. There is no visual evidence of lack of visual integrity. There is literature that disputes the claim made by Spencer (2013) during Senate hearing in 2013 but that is not used to judge the “visual integrity” or “accuracy” of the visualization.  
+This visualization hardly requires any effort for perceiving the powerful message behind it. Use of labels for indicating different periods (Medieval, Roman, etc.) makes it even more easily perceivable. The colors of the labels for warmer and cooler periods are shown in red and blue, respectively which is also reasonable.  However, the “Satelite” label in blue color does not relate to temperature data so a score of 4 out of 5 for Perceptibility. This visualization gets a score of 5 out of 5 for Intuitiveness because line chart is a very familiar form of a chart for most viewers. There is no visual evidence of lack of visual integrity. There is literature that disputes the claim made by Spencer (2013) during Senate hearing in 2013 but that is not used to judge the “visual integrity” or “accuracy” of the visualization.  
 
 In terms of Aesthetics and Engagement, this visualization gets a full score. Due to its ability to evoke the complexity of the data clearly with a simple design, it is rated aesthetically elegant.  It also has a reasonable appeal that draws users into it, rather than distracting them. 
 
@@ -189,5 +189,5 @@ https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf
 <p align="center">
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 <p>
-This image has been replicated using python code. The code and the python files can be found in [GlobalWarmingStripes](/GlobalWarmingStripes) .
+This image has been replicated using python code. The code and the python files can be found in [GlobalWarmingStripes](https://github.com/pragyansharma24/DataVisualizations_ClimateChange/tree/master/GlobalWarmingStripes) .
 
