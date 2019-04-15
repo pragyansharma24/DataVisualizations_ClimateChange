@@ -29,6 +29,53 @@ dimensions used within an image should be limited to the dimensions within the d
 
 7. **Engagement**: By engagement, Few (2017) means a quality that can be achieved by various means. It invites the audience and draws them into data to examine the information and does not distract audience from data.
 
+
+
+
+
+<img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
+
+
+
+<img src="/images/Viz2_SeaLevel.gif" alt="Sea Level" width="600">
+
+
+<img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
+
+
+
+<img src="/images/Viz4_Perception.png" alt="Perception" width="600">
+
+
+<img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### References
 * Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 * Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
