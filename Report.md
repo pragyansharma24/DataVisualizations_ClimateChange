@@ -190,5 +190,5 @@ https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 <p>
 This image has been replicated using python code. The code and the python files can be found in 
-![GlobalWarmingStripes](/GlobalWarmingStripes)
+[here](https://github.com/pragyansharma24/DataVisualizations_ClimateChange/tree/master/GlobalWarmingStripes)
 
