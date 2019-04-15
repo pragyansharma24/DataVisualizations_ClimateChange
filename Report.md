@@ -130,9 +130,9 @@ Engagement|5
 
 <img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
 
-**Source**:
+**Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist.   http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/
 
-**Evaluation Score**:  My assessment score for Visualization #5 is given below.
+**Evaluation Score**: My assessment score for Visualization #5 is given below.
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -144,7 +144,13 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:
+**Evaluation Summary**: Spencer (2013) writes, “this chart illustrates that, yes, we are currently warm, but not significantly warmer than the Medieval Warm Period (MWP) or the Roman Warm Period (RWP). So how is it we know today’s warmth is human-caused when the last two warm periods couldn’t have been caused by humans? Hmmm?” This is definitely a very useful and important visualization as, contrary to other four visualizations evaluated above, it denies the claim that climate change is caused by human activities. Note that the original source of this visualization is Ljungquist (2010) but Spencer (2013) has added more labels to it for providing better understandability.
+
+Apart from being a useful visualization, it also shows “Completeness” in a sense that it tends to produce an intended level of understanding, I believe the data-ink ratio is close to 1, and all figure elements are appropriately placed. 
+
+This visualization hardy requires any effort for perceiving the powerful message behind it. Use of labels for indicating different periods (Medieval, Roman, etc.) makes it even more easily perceivable. The colors of the labels for warmer and cooler periods are shown in red and blue, respectively which is also reasonable.  However, the “Satelite” label in blue color does not relate to temperature data so a score of 4 out of 5 for Perceptibility. This visualization gets a score of 5 out of 5 for Intuitiveness because line chart is a very familiar form of a chart for most viewers. There is no visual evidence of lack of visual integrity. There is literature that disputes the claim made by Spencer (2013) during Senate hearing in 2013 but that is not used to judge the “visual integrity” or “accuracy” of the visualization.  
+
+In terms of Aesthetics and Engagement, this visualization gets a full score. Due to its ability to evoke the complexity of the data clearly with a simple design, it is rated aesthetically elegant.  It also has a reasonable appeal that draws users into it, rather than distracting them. 
 
 
 ### Conclusion
