@@ -50,6 +50,7 @@ Aesthetics|5
 Engagement|5
 
 **Evaluation Summary**: With regards to the impact of human activities and natural factors on climate change, this visualization provides plenty of useful information and insights to the readers. This visualization is important and useful for the authors to clearly describe their hypothesis in the research article. The visualization shows completeness in the sense that it provides just enough information, not more or less (data-ink ratio of 1). It uses axes labels, tick marks, and text in the figure properly. Choice of colors is also acceptable as it depicts the factors negatively affecting the climate in red and factors positively affecting the climate in blue. 
+
 This visualization gets a score of 3 out of 5 for Perceptibility because it requires some effort to interpret, especially the last row in the plot that shows the sum of all human activities. Authors could have provided more clarity in illustrating that the last two rows are there to be compared and provide a summary of their results. Moreover, Bar Plots, in general, are intuitive and easily understood, however, this visualization earns a slightly low score (4 out of 5) for Intuitiveness because it does take some time, when first encountered, to figure out how to read it. There is no doubt that this scientific visualization scores highly in Truthfulness as it reflects both accuracy and validity in the presentation of data. There is no visual evidence of lack of visual integrity. Its simplicity of design makes it easy to interpret and aesthetically elegant. It draws my attention and engages me into it to investigate the information provided.
 
 ### Visualization 2
@@ -70,7 +71,7 @@ Intuitiveness|4
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in the coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. 
+**Evaluation Summary**: This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in the coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. 
 
 Despite being a useful visualization, it lacks completeness in a sense that it could have provided more information in terms of actual SLR numbers. Also, the data-ink ratio for this visual is very low. 
 
@@ -98,7 +99,7 @@ Intuitiveness|4
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:Antti Lipponen has put together an incredibly powerful data visualization showing climate change in each country over time starting from 1880. Date used for this animation were taken from surface temperature analysis performed by NASA. There is no doubt regarding how important and useful information this visualization provides with regards to climate change, so a score of 5 out of 5 on “Usefulness” criterion. Visualization also shows completeness as it provides just enough information, not more or less, to deliver what it intends to. It also includes a color ramp on top with varying size of circles for aid to comprehension and for accuracy. Choice of colors is also reasonable as the red and blue circles show temperature rise and drop, respectively relative to 1880. 
+**Evaluation Summary**: Antti Lipponen has put together an incredibly powerful data visualization showing climate change in each country over time starting from 1880. Date used for this animation were taken from surface temperature analysis performed by NASA. There is no doubt regarding how important and useful information this visualization provides with regards to climate change, so a score of 5 out of 5 on “Usefulness” criterion. Visualization also shows completeness as it provides just enough information, not more or less, to deliver what it intends to. It also includes a color ramp on top with varying size of circles for aid to comprehension and for accuracy. Choice of colors is also reasonable as the red and blue circles show temperature rise and drop, respectively relative to 1880. 
 
 This temperature anomaly animation visual is optimal in most respects except for a lower score in intuitiveness, because it does take some time, when first encountered, to figure out how to read it. It is not a common type of visual which makes it little harder to interpret at first so a score of 4 out of 5 for Intuitiveness. Also, in regards with Percepti it made my brain and eyes to do some work before I can make sense of everything that this animation has to deliver. However, I also believe there is no significantly better way to incorporate this amount of information in a visualization, so I haven’t lowered the perceptibility score below 4.
 
