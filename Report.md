@@ -90,9 +90,9 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Ani
 <img src="/images/Viz3_TempChanges.gif" alt="Temperature Changes" width="600">
 </p>
 
-**Source**:This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. [link](https://www.flickr.com/photos/150411108@N06/)
+**Source**: This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. [link](https://www.flickr.com/photos/150411108@N06/)
 
-**Evaluation Score**:  My assessment score for Visualization #3 is given below.
+**Evaluation Score**: My assessment score for Visualization #3 is given below.
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -119,7 +119,7 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 
 **Source**: This visualization is taken from a technical report (Connie et al., 2014). [link](http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf)
 
-**Evaluation Score**:  My assessment score for Visualization #4 is given below.
+**Evaluation Score**: My assessment score for Visualization #4 is given below.
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -176,6 +176,7 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Due
 * Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
 * Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
 * Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
+
 
 ---
 
