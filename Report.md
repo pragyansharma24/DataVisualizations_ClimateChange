@@ -38,6 +38,7 @@ dimensions used within an image should be limited to the dimensions within the d
 **Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
 
 **Evaluation Score**: My assessment score for Visualization #1 is given below. 
+
 **Criterion**| **Score**
 ---------- | :---: 
 Usefulness | 5
@@ -58,6 +59,7 @@ The visualization gets a score of 3 out of 5 for Perceptibility because it requi
 **Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
 
 **Evaluation Score**: My assessment score for Visualization #2 is given below. 
+
 **Criterion**| **Score**
 ---------- | :---: 
 Usefulness | 5
