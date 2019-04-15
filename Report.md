@@ -57,21 +57,24 @@ The visualization gets a score of 3 out of 5 for Perceptibility because it requi
 
 <img src="/images/Viz2_SeaLevel.gif" alt="Sea Level" width="600">
 
-**Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
+**Source**: This visualization animation is taken from articleClimate Viz (http://www.pierdr.com/filter/Data-visualization/climate-viz).
 
 **Evaluation Score**: My assessment score for Visualization #2 is given below. 
 
 **Criterion**| **Score**
 ---------- | :---: 
 Usefulness | 5
-Completeness| 5 
+Completeness| 3 
 Perceptibility| 4
-Truthfulness|5 
-Intuitiveness|3
+Truthfulness|4
+Intuitiveness|4
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**:
+**Evaluation Summary**:This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. 
+Despite being a useful visualization, it lacks completeness in a sense that it could have provided more information in terms of actual SLR numbers. Also, data-ink ratio for this visual is very low. The visualization gets a score of 5 out of 5 for Perceptibility because it hardy requires any effort for perceiving the powerful message behind it. Choice of colors is reasonable as it presents increasing sea level, which has negative impacts, in red and decreasing sea levels, which are not as alarming, in blue. This visualization also gets a slightly low score (4 out of 5) for Intuitiveness because it is not a familiar form of plot for most people. Without enough information provided by the author in the form of labels and numbers on SLR, it is difficult to judge the accuracy and validity (Truthfulness) of this visual, hence a score of 4 out of 5. There is no visual evidence of lack of visual integrity. 
+In terms of Aesthetics and Engagement, this visualization gets full score. Animations in general will engage users, and its simplicity of design while delivering a powerful message makes this animation aesthetically elegant.  
+
 
 
 ### Visualization 3
