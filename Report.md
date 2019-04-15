@@ -67,8 +67,13 @@ Engagement|5
 
 
 
+### References
+* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+* Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
+* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
+* Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
 
-
+---
 
 
 # PART 2: Replicating Global Warming Stripes 
@@ -76,26 +81,4 @@ Engagement|5
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 
 This image has been replicated using python code. The code and the python files can be found ![here](/GlobalWarmingStripes).
-
-
-
-
-
-
-
-
-
-
-
----
-
-
-
-### References
-* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
-* Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
-* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
-* Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
-
-
 
