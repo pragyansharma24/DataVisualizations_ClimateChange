@@ -1,9 +1,9 @@
 # Data Visualization Climate Change Self Study Project
 
-[Report](/Report.md): contains 
-* Part 1: Analysis of visualizations related climate change
-* Part 2: Replicating Global warming strips 
+[Report](/Report.md): Contains: 
+* Part 1: Analysis of Visualizations Related to Climate Change
+* Part 2: Replicating Warming Strips Visualization
 
-[images](/images): Contains all visualizations used in Part 1: Analysis of visualizations related climate change
+[images](/images): Contains all visualizations used in Part 1.
 
-[GlobalWarmingStripes](/GlobalWarmingStripes): Contains code and data files used in Part 2: Replicating Global warming strips 
+[GlobalWarmingStripes](/GlobalWarmingStripes): Contains code, data, and replicated output image used in Part 2. 
