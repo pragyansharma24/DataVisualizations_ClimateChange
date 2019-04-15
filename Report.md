@@ -130,9 +130,9 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
-**Evaluation Summary**: This visualization is useful and important because it displays the public's understanding of the causes of global warming and how much they are concerned about climate change. This visualization is a stacked percentage chart and is complete in all aspects as it is able to produce the intended level of understanding with proper use of figure elements. However, as far as Perceptibility is concerned, it gets a low score of 3 out of 5. It is not clear whether the numbers on the bars (in white) are the number of people who took the survey or some sort of percentages. Moreover, because of the 0-100% scaling used on Y-axis, it is difficult to visually compare two categories (e.g. Alarmed vs Disengaged). Also, probably due to the rounding off errors, the percentages are not adding to 100% (e.g. the numbers in category “Doubtful” are adding to 101%). Stacked Bar Charts are simple and intuitive in general, and therefore this stack chart gets a score of 5 for intuitiveness.
+**Evaluation Summary**: This visualization is useful and important because it displays public's understanding of the causes of global warming and how much they are concerned about climate change. This visualization uses a stacked percentage chart and is complete in all aspects as it is able to produce the intended level of understanding with proper use of figure elements. However, as far as Perceptibility is concerned, it gets a low score of 3 out of 5. It is not clear whether the numbers on the bars (in white) are the number of people who took the survey or some sort of percentages. Moreover, because of the 0-100% scaling used on Y-axis, it is difficult to visually compare two categories (e.g. Alarmed vs Disengaged). Also, probably due to the rounding off errors, the percentages are not adding to 100% (e.g. the numbers in category “Doubtful” are adding to 101%). Stacked bar charts are simple and intuitive in general, and therefore this visualization gets a score of 5 for Intuitiveness.
 
-This graph gets a very low score (2 out of 5) for Truthfulness because 42% of “Cautious” is not equivalent to 43% of “Dismissive” as it is perceived from the visualization, and hence it gives an incorrect impression.  I consider it as a visual distortion of data. As for aesthetics, it is evoking the complexity of the data with simple design, so it is aesthetically elegant. It is also engaging views to investigate information provided in terms of data and does not distract them. 
+This graph gets a very low score (2 out of 5) for Truthfulness because 42% of “Cautious” is not equivalent to 43% of “Dismissive” as it is perceived from the visualization, and hence it gives an incorrect impression.  I consider it as a visual distortion of data. As for aesthetics, it is evoking the complexity of the data with simple design, so it is aesthetically elegant. It is also engaging viewers to investigate information provided in terms of data and does not distract them. 
 
 ### Visualization 5
 
@@ -140,7 +140,7 @@ This graph gets a very low score (2 out of 5) for Truthfulness because 42% of �
 <img src="/images/Viz5_Against.png" alt="Against Global Warming" width="600">
 </p>
 
-**Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist. [link](http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/)
+**Source**: This data visualization is taken from the following link which appears to be created by Roy Spencer, PhD, Former NASA Scientist, Climatologist, and a climate change denialist. [link](http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/)
 
 **Evaluation Score**: My assessment score for Visualization #5 is given below:
 
@@ -178,7 +178,7 @@ I found the framework very effective in assessing the visualizations. Using the 
 https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf
 * Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
 * Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
-
+* Spencer (2013), http://www.drroyspencer.com/
 
 
 ---
