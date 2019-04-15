@@ -40,7 +40,7 @@ integrity” term used by Tufte's design principles can also be correlated with 
 
 **Source**: This visualization is taken from a research article (Forster et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”. [link](https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf)
 
-**Evaluation Score**: My assessment score for Visualization #1 is given below. 
+**Evaluation Score**: My assessment score for Visualization #1 is given below: 
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -64,13 +64,13 @@ This visualization gets a score of 3 out of 5 for Perceptibility because it requ
 
 **Source**: This visualization animation is taken from article Climate Viz. [link](http://www.pierdr.com/filter/Data-visualization/climate-viz).
 
-**Evaluation Score**: My assessment score for Visualization #2 is given below. 
+**Evaluation Score**: My assessment score for Visualization #2 is given below: 
 
 **Criterion**| **Score**
 ---------- | :---: 
 Usefulness | 5
 Completeness| 3 
-Perceptibility| 4
+Perceptibility| 5
 Truthfulness|4
 Intuitiveness|4
 Aesthetics|5
@@ -78,10 +78,9 @@ Engagement|5
 
 **Evaluation Summary**: This visualization does a commendable job in illustrating Sea Level Rise (SLR) Anomalies in the coastal USA as a result of climate change. Author Pietro de la Rosa’s main idea for creating this visualization was to spread awareness about the state of climate change. This visual clearly provides useful and important information that can be used to increase awareness among people from all sectors of society. Despite being a useful visualization, it lacks completeness in a sense that it could have provided more information in terms of actual SLR numbers. Also, the data-ink ratio for this visual is very low. 
 
-The visualization gets a score of 5 out of 5 for Perceptibility because it hardly requires any effort for perceiving the powerful message behind it. Choice of colors is reasonable as it presents increasing sea level, which has negative impacts, in red and decreasing sea levels, which are not as alarming, in blue. This visualization also gets a slightly low score (4 out of 5) for Intuitiveness because it is not a familiar form of plot for most people. Without enough information provided by the author in the form of labels and numbers on SLR, it is difficult to judge the accuracy and validity (Truthfulness) of this visual, hence a score of 4 out of 5. There is no visual evidence of lack of visual integrity. 
+The visualization gets a score of 5 out of 5 for Perceptibility because it hardly requires any effort for perceiving the powerful message behind it. Choice of colors is reasonable as it presents increasing sea level, which has negative impacts, in red and decreasing sea levels, which are not as alarming, in blue. This visualization also gets a slightly low score (4 out of 5) for Intuitiveness because it is not a familiar form of plot for most people. Without enough information provided by the author in the form of labels and numbers on SLR, it is difficult to judge the accuracy and validity (Truthfulness) of this visual, hence a score of 4 out of 5. There is no visual evidence for the lack of visual integrity. 
 
 In terms of Aesthetics and Engagement, this visualization gets a full score. Animations, in general, engage users, and its simplicity of design while delivering a powerful message makes this animation aesthetically elegant.  
-
 
 
 ### Visualization 3
@@ -92,7 +91,7 @@ In terms of Aesthetics and Engagement, this visualization gets a full score. Ani
 
 **Source**: This visualization is taken from the Flickr account of Antti Lipponen, a research scientist at the Finnish Meteorological Institute. [link](https://www.flickr.com/photos/150411108@N06/)
 
-**Evaluation Score**: My assessment score for Visualization #3 is given below.
+**Evaluation Score**: My assessment score for Visualization #3 is given below:
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -101,12 +100,12 @@ Completeness| 5
 Perceptibility| 4
 Truthfulness|5 
 Intuitiveness|4
-Aesthetics|5
+Aesthetics|4
 Engagement|5
 
 **Evaluation Summary**: Antti Lipponen has put together an incredibly powerful data visualization showing climate change in each country over time starting from 1880. Date used for this animation were taken from surface temperature analysis performed by NASA. There is no doubt regarding how important and useful information this visualization provides with regards to climate change, so a score of 5 out of 5 on “Usefulness” criterion. Visualization also shows completeness as it provides just enough information, not more or less, to deliver what it intends to. It also includes a color ramp on top with varying size of circles for aid to comprehension and for accuracy. Choice of colors is also reasonable as the red and blue circles show temperature rise and drop, respectively relative to 1880. 
 
-This temperature anomaly animation visual is optimal in most respects except for a lower score in intuitiveness, because it does take some time, when first encountered, to figure out how to read it. It is not a common type of visual which makes it little harder to interpret at first so a score of 4 out of 5 for Intuitiveness. Also, in regards with Percepti it made my brain and eyes to do some work before I can make sense of everything that this animation has to deliver. However, I also believe there is no significantly better way to incorporate this amount of information in a visualization, so I haven’t lowered the perceptibility score below 4.
+This temperature anomaly animation visual is optimal in most respects except for a lower score in intuitiveness, because it does take some time, when first encountered, to figure out how to read it. It is not a common type of visual which makes it little harder to interpret at first so a score of 4 out of 5 for Intuitiveness. Also, in regards with Perceptibility, it makes my brain and eyes to do some work before I can make sense of everything that this animation delivers. However, I also believe there is no significantly better way to incorporate this amount of information in a visualization, so I haven’t lowered the perceptibility score below 4.
 
 Aesthetically, it is relatively less pleasing to the eye, in part because the names of the countries at some places (e.g. Ukraine, United Arab Amirates, etc. in the bottom row) create a cluttered appearance. And finally, there is a lot about this animation that invites the viewer to examine the data. There is something for every viewer in this animation to explore. 
 
@@ -119,7 +118,7 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 
 **Source**: This visualization is taken from a technical report (Connie et al., 2014). [link](http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf)
 
-**Evaluation Score**: My assessment score for Visualization #4 is given below.
+**Evaluation Score**: My assessment score for Visualization #4 is given below:
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -143,7 +142,7 @@ This graph gets a very low score (2 out of 5) for Truthfulness because 42% of �
 
 **Source**: This data visualization is taken from the following link which appears to be created by Roy Specnder, PhD, Former NASA Scientist, Climatologist, and a climate change denialist. [link](http://www.drroyspencer.com/2013/07/senate-epw-hearing-climate-change-its-happened-before/)
 
-**Evaluation Score**: My assessment score for Visualization #5 is given below.
+**Evaluation Score**: My assessment score for Visualization #5 is given below:
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -190,5 +189,5 @@ https://www.ipcc.ch/site/assets/uploads/2018/02/ar4-wg1-chapter2-1.pdf
 <p align="center">
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 <p>
-This image has been replicated using python code. The code and the python files can be found [here](/GlobalWarmingStripes).
+This image has been replicated using python code. The code and the python files can be found in [GlobalWarmingStripes](/GlobalWarmingStripes) .
 
