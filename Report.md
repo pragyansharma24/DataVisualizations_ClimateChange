@@ -30,14 +30,13 @@ dimensions used within an image should be limited to the dimensions within the d
 7. **Engagement**: By engagement, Few (2017) means a quality that can be achieved by various means. It invites the audience and draws them into data to examine the information and does not distract audience from data.
 
 
-
-
-
-
+## Data Visualizations and their Evaluation using Framework
+#### Visualization 1
 
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
+**Source**: This visualization is taken from a research article (Ramaswamy et. al, 2001) titled “Changes in Atmospheric Constituents and in Radiative Forcing”.
 
-#### Evaluation
+**Evaluation Score**: My assessment score for Visualization #1 is given below. 
 
 **Criterion**| **Score**
 ---------- | :---: 
@@ -49,7 +48,10 @@ Intuitiveness|3
 Aesthetics|5
 Engagement|5
 
+**Evaluation Summary**: With regards to the impact of human activities and natural factors on climate change, this visualization provides plenty of useful information and insights to the readers. This visualization is important and useful for the authors to clearly describe their hypothesis in the research article. Visualization shows completeness in a sense that it provides just enough information, not more or less (data-ink ratio of 1). It uses axes labels, tick marks, and text in the figure properly. Choice of colors is also acceptable as it depicts the factors negatively affecting the climate in red and factors positively affecting the climate in blue. 
+The visualization gets a score of 3 out of 5 for Perceptibility because it requires some effort to interpret, especially the last row in the plot that shows sum of all human activities. Authors could have provided more clarity in illustrating that the last two rows are there to be compared and provide the summary of their results. Moreover, Bar Plots in general are intuitive and easily understood, however, this visualization earns a slightly low score (4 out of 5) for Intuitiveness because it does take some time, when first encountered, to figure out how to read it. There is no doubt that this scientific visualization scores highly in Truthfulness as it reflects both accuracy and validity in presentation of data. There is no visual evidence of lack of visual integrity. Its simplicity of design makes it easy to interpret and aesthetically elegant. It draws my attention and engages me into it to investigate the information provided.
 
+#### Visualization 2
 
 
 
