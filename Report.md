@@ -74,9 +74,8 @@ Engagement|5
 # PART 2: Replicating Global Warming Stripes 
 
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
-The above graph has been replicated using python
 
-
+This image has been replicated using python code. The code and the python files can be found ![here](/GlobalWarmingStripes).
 
 
 
