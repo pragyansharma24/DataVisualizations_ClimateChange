@@ -26,10 +26,14 @@ dimensions used within an image should be limited to the dimensions within the d
 7. **Engagement**: By engagement, Few (2017) means a quality that can be achieved by various means. It invites the audience and draws them into data to examine the information and does not distract audience from data.
 
 ### References
-* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017. Link: https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
-* Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122. Link: https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
-* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers. Link: http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
-* Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations. Link: https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
+* Few, S (2017). Data Visualization Effectiveness Profile Stephen Few, Perceptual Edge Visual Business Intelligence Newsletter January/February/March 2017.
+https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf
+* Atwood, TP and Reznik-Zellen, R (2018). Using the Visualization Software Evaluation Rubric to explore six freely available visualization applications, Journal of eScience Librarianship, 7(1): e1122.
+https://escholarship.umassmed.edu/cgi/viewcontent.cgi?article=1122&amp;context=jeslib
+* Vidya (2016). Daydreaming Numbers – Telling Stories with Numbers.
+http://daydreamingnumbers.com/blog/visual-perception-data-visualization/
+* Interactive Design Foundation (2019). Guidelines for Good Visual Information Representations.
+https://www.interaction-design.org/literature/article/guidelines-for-good-visual-information-representations
 
 
 
