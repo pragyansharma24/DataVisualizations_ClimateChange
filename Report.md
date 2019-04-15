@@ -107,9 +107,9 @@ Aesthetically, it is relatively less pleasing to the eye, in part because the na
 
 
 ### Visualization 4
-
+<p align="center">
 <img src="/images/Viz4_Perception.png" alt="Perception" width="600">
-
+</p>
 **Source**: This visualization is taken from a technical report (Connie et al., 2014) http://climatecommunication.yale.edu/wp-content/uploads/2015/03/Six-Americas-October-2014.pdf
 
 **Evaluation Score**:  My assessment score for Visualization #4 is given below.
