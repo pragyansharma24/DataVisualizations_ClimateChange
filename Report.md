@@ -1,4 +1,4 @@
-# Analysis of data visualization graphs 
+# PART 1: Analysis of data visualization graphs 
 
 ## Data Visualization Evaluation Framework
 The data visualization effectiveness profile which is used here for the evaluation of five data visualizations selected for the project titled “Climate Change Caused by Human Activity” is shown in Figure 1. This effectiveness profile is based on the evaluation framework designed by Few (2017) who proposed seven distinct criteria for evaluating the effectiveness of data visualizations. Figure 1 shows
@@ -33,7 +33,24 @@ dimensions used within an image should be limited to the dimensions within the d
 
 
 
+
+
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
+
+#### Assesment
+
+**Criterion**| **Score**
+---------- | --- 
+Usefulness | 5
+Completeness| 5 
+Perceptibility| 4
+Truthfulness|5 
+Intuitiveness|3
+Aesthetics|5
+Engagement|5
+
+
+
 
 
 
@@ -55,6 +72,9 @@ dimensions used within an image should be limited to the dimensions within the d
 
 
 
+# PART 2: Replicating Global Warming Stripes 
+
+<img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
 
 
 
@@ -69,10 +89,7 @@ dimensions used within an image should be limited to the dimensions within the d
 
 
 
-
-
-
-
+---
 
 
 
