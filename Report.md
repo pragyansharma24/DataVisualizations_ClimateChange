@@ -37,10 +37,10 @@ dimensions used within an image should be limited to the dimensions within the d
 
 <img src="/images/Viz1_RadiativeForces.JPG" alt="Radiative Forces text" width="600">
 
-#### Assesment
+#### Evaluation
 
 **Criterion**| **Score**
----------- | --- 
+---------- | :---: 
 Usefulness | 5
 Completeness| 5 
 Perceptibility| 4
@@ -48,7 +48,6 @@ Truthfulness|5
 Intuitiveness|3
 Aesthetics|5
 Engagement|5
-
 
 
 
@@ -75,7 +74,7 @@ Engagement|5
 # PART 2: Replicating Global Warming Stripes 
 
 <img src="/GlobalWarmingStripes/Global warming stripes.png" alt="Global Warming Stripes" width="600">
-
+The above graph has been replicated using python
 
 
 
